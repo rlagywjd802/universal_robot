@@ -102,3 +102,4 @@ Add ur_motion_scripts and Edit ur5_moveit_config.
 
 ```roslaunch ur5_moveit_config ur5_moveit_planning_execution.launch ```
 
+```rosrun ur_motion_scripts execute_trajectory.launch ```
