@@ -94,4 +94,11 @@ As MoveIt! seems to have difficulties with finding plans for the UR with full jo
 
 ```roslaunch ur5_moveit_config moveit_rviz.launch config:=true```
 
+# Edited
+## 18.09.01 
+Add ur_motion_scripts and Edit ur5_moveit_config. 
+
+```roslaunch ur_gazebo ur5.launch ```
+
+```roslaunch ur5_moveit_config ur5_moveit_planning_execution.launch ```
 
